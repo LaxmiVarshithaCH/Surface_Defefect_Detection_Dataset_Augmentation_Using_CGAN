@@ -1,0 +1,14 @@
+{
+    "img_size": 128,
+    "z_dim": 128,
+    "num_classes": 6,
+    "classes": [
+        "crazing",
+        "inclusion",
+        "patches",
+        "pitted_surface",
+        "rolled-in_scale",
+        "scratches"
+    ],
+    "checkpoint": "checkpoints/G_300.pth"
+}

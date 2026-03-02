@@ -1,0 +1,13 @@
+torch
+torchvision
+albumentations
+opencv-python
+numpy
+matplotlib
+tqdm
+seaborn
+scikit-learn
+Pillow
+fastapi
+uvicorn
+streamlit
